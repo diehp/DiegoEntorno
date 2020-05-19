@@ -1,0 +1,6 @@
+1. Cambiarle los nombres a los parametros, metodos y variables por nombres mas aclarativos.
+2. Borrar la clase B, y meter su contenido en la clase C debido que ambas trabajan sobre lo mismo y no tener mas clases de la cuenta.
+3. Borrar parte del contenido de la clase A y añadirlo como metodos en la clase C, llamandolos en la clase A, como por Ejemplo mostrarFila.
+4. Crear metodo de copiarArray utilizando el codigo borrado del metodo ordenarArray y llamar al metodo que creamos desde A aunque no se guarden
+los datos en ningun array nuevo, igual que antes.
+5. Comentar el codigo y aplicar javadoc.
